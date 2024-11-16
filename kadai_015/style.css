@@ -8,6 +8,9 @@ html {
 #basic {
     text-align: center;
 }
+#basic p {
+    font-weight: bold;
+}
 .blue {
     color: skyblue;
 }
